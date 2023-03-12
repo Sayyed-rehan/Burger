@@ -1,0 +1,40 @@
+.nav-toolbar {
+  background-color: #fffde7;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-1 {
+  color: black;
+}
+
+.nav-1 img {
+  width: 50px;
+  cursor: pointer;
+}
+
+
+
+.nav-2 {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  cursor: pointer;
+}
+
+.nav-2 button {
+  background-color: orange;
+}
+
+.nav-3 {
+  color: black;
+  display: flex;
+  gap: 10px;
+}
+
+.nav-3 img {
+  width: 25px;
+  cursor: pointer;
+}

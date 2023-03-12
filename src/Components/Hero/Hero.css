@@ -1,0 +1,25 @@
+.hero-container{
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.hero1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+ 
+}
+
+/* .hero2{
+   
+} */
+
+.hero-2 img{
+    width: 700px;
+    border-radius: 30px;
+   
+}
